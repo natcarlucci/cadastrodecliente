@@ -1,0 +1,13 @@
+package br.com.nathaliacalucci.cadastrodecliente;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CadastrodeclienteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CadastrodeclienteApplication.class, args);
+	}
+
+}
